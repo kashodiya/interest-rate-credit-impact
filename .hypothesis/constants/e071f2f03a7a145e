@@ -1,0 +1,4 @@
+# file: D:\Users\kaushik.ashodiya\Documents\MyProjects\kiro-ide\interest-rate-credit-impact\analysis\lag_analysis_engine.py
+# hypothesis_version: 6.148.3
+
+[-1.1, 0.0, 0.05, 0.5, 0.9999, 1.1, 'Correlation', 'Lag Period (months)', 'blue', 'dash', 'gray', 'lines+markers', 'markers', 'plotly_white', 'red', 'star', 'x unified']

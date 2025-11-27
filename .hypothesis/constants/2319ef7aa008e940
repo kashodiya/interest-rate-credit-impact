@@ -1,0 +1,4 @@
+# file: D:\Users\kaushik.ashodiya\Documents\MyProjects\kiro-ide\interest-rate-credit-impact\analysis\eda_engine.py
+# hypothesis_version: 6.148.3
+
+[0.5, 100, 'Credit (Billions $)', 'Date', 'Interest Rate (%)', 'Time Series Plot', 'Value', 'bottom', 'color', 'dash', 'date', 'label', 'line', 'lines', 'mean', 'median', 'monthly', 'number', 'paper', 'plotly_white', 'quarterly', 'range', 'red', 'secondary_y', 'std', 'x unified']

@@ -1,0 +1,4 @@
+# file: D:\Users\kaushik.ashodiya\Documents\MyProjects\kiro-ide\interest-rate-credit-impact\dashboard\export_manager.py
+# hypothesis_version: 6.148.3
+
+[0.001, 0.01, 0.05, 300, '%Y%m%d_%H%M%S', '*', '**', '***', '-', '.csv', '.json', '.txt', '=', 'COEFFICIENTS:', 'DIAGNOSTIC TESTS:', 'MODEL STATISTICS:', 'P-VALUES:', 'accuracy_metrics', 'adjusted_r_squared', 'breusch_pagan_p', 'coefficients', 'confidence_level', 'csv', 'dates', 'diagnostics', 'durbin_watson', 'export_timestamp', 'jarque_bera_p', 'json', 'lower_bound', 'mae', 'mape', 'model_type', 'output/exports', 'p_values', 'png', 'predicted_value', 'predicted_values', 'r_squared', 'rmse', 'svg', 'text', 'txt', 'upper_bound', 'w']

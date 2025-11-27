@@ -1,0 +1,4 @@
+# file: D:\Users\kaushik.ashodiya\Documents\MyProjects\kiro-ide\interest-rate-credit-impact\analysis\sensitivity_analyzer.py
+# hypothesis_version: 6.148.3
+
+[0.0, 0.001, 0.5, 500, 'Credit Category', 'black', 'green', 'outside', 'plotly_white', 'red', 'solid']

@@ -1,0 +1,4 @@
+# file: D:\Users\kaushik.ashodiya\Documents\MyProjects\kiro-ide\interest-rate-credit-impact\analysis\forecast_engine.py
+# hypothesis_version: 6.148.3
+
+[-0.5, 0.95, 100, 'Date', 'Forecast', 'Historical', 'MS', 'Value', 'blue', 'dash', 'ds', 'forecast', 'ignore', 'inf', 'lines', 'plotly_white', 'predict', 'red', 'rgba(255, 0, 0, 0.2)', 'skip', 'tonexty', 'x unified', 'y', 'yhat', 'yhat_lower', 'yhat_upper']

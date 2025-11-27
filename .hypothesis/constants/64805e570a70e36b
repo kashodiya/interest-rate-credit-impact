@@ -1,0 +1,4 @@
+# file: D:\Users\kaushik.ashodiya\Documents\MyProjects\kiro-ide\interest-rate-credit-impact\data_processing\loader.py
+# hypothesis_version: 6.148.3
+
+['1-Year Treasury', '10-Year Treasury', '2-Year Treasury', 'Bank Prime Loan Rate', 'CONSUMER', 'DFF', 'DGS1', 'DGS10', 'DGS2', 'DPRIME', 'Date', 'FEDFUNDS', 'Fed Funds Rate', 'Federal Funds Rate', 'GS1', 'GS10', 'GS2', 'NONREVOL', 'NONREVSL', 'Non-Revolving Credit', 'Nonrevolving', 'PRIME', 'Prime Rate', 'REVOL', 'REVOLSL', 'Revolving', 'Revolving Credit', 'TIME_PERIOD', 'TOTALSL', 'Time Period', 'Total Credit', 'Treasury 10Y', 'Treasury 1Y', 'Treasury 2Y', 'coerce', 'date', 'fed_funds_rate', 'non_revolving_credit', 'prime_rate', 'revolving_credit', 'total_credit', 'treasury_10y', 'treasury_1y', 'treasury_2y']

@@ -1,0 +1,4 @@
+# file: D:\Users\kaushik.ashodiya\Documents\MyProjects\kiro-ide\interest-rate-credit-impact\config.py
+# hypothesis_version: 6.148.3
+
+[0.05, 0.2, 0.95, 300, 600, 1200, '2008-09-15', '2020-03-11', '2022-03-16', 'date', 'label', 'output', 'output/exports']

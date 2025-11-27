@@ -1,0 +1,20 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Statistical analysis
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Forecasting
+prophet>=1.1.0
+
+# Visualization and dashboard
+plotly>=5.14.0
+dash>=2.9.0
+kaleido>=0.2.1  # For plotly image export
+
+# Testing
+hypothesis>=6.70.0
+pytest>=7.3.0
+pytest-cov>=4.1.0

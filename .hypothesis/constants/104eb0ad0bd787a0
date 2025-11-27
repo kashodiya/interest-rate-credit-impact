@@ -1,0 +1,4 @@
+# file: D:\Users\kaushik.ashodiya\Documents\MyProjects\kiro-ide\interest-rate-credit-impact\main.py
+# hypothesis_version: 6.148.3
+
+['=', '__main__', 'arima', 'fed_funds_rate', 'growth_rates', 'max_correlation', 'non_revolving_credit', 'optimal_lag', 'prime_rate', 'revolving_credit', 'summary_stats', 'total_credit', 'treasury_10y', 'treasury_1y']
