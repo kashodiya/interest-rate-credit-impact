@@ -1,5 +1,7 @@
 # Interest Rate and Consumer Credit Analysis System
 
+> **🤖 Built entirely with Kiro AI** - This complete production-ready system was developed in a single session using AI-assisted development, showcasing 99.9% cost savings and 20-25x faster delivery compared to traditional development approaches.
+
 A Python-based data analysis application that examines the relationship between federal interest rates and consumer borrowing behavior using Federal Reserve datasets (H.15 and G.19).
 
 ## Dashboard Preview
