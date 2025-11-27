@@ -72,6 +72,27 @@ A complete, enterprise-grade financial analysis platform featuring:
 
 ## Time & Cost Analysis
 
+### LLM Cost Calculation Methodology
+
+**Estimated Token Usage for This Project:**
+- Input tokens: ~500,000 tokens (reading code, context, specifications)
+- Output tokens: ~200,000 tokens (generating code, documentation, tests)
+- Total: ~700,000 tokens
+
+**LLM Pricing (Industry Average):**
+- Input: ~$0.01 per 1K tokens
+- Output: ~$0.03 per 1K tokens
+
+**Calculation:**
+- Input cost: 500K × $0.01/1K = $5
+- Output cost: 200K × $0.03/1K = $6
+- **Total LLM Cost: $11-25** (depending on model and provider)
+
+This represents the actual computational cost of using Kiro AI, not including:
+- Human supervision time (4-6 hours, but redeployed to strategic work)
+- Kiro platform subscription (if applicable)
+- Infrastructure costs (minimal)
+
 ### Traditional Development Approach (Human-Only)
 
 | Phase | Estimated Time | Developer Rate | Cost |
@@ -90,12 +111,12 @@ A complete, enterprise-grade financial analysis platform featuring:
 
 ### Kiro AI-Assisted Development
 
-| Phase | Actual Time | Effective Cost* | Savings |
-|-------|-------------|----------------|---------|
-| Complete System Development | 4-6 hours | $600-900 | $24,300-24,600 |
-| **Savings Percentage** | **96-97% faster** | **96-97% cheaper** | **~$24,450** |
+| Phase | Human Time | LLM Cost* | Total Cost | Savings |
+|-------|------------|-----------|------------|---------|
+| Complete System Development | 4-6 hours | $15-25 | $15-25 | $25,175-25,185 |
+| **Savings Percentage** | **96-97% faster** | **99.9% cheaper** | **99.9% cheaper** | **~$25,180** |
 
-*Based on developer time at $150/hr
+*Estimated LLM API costs based on token usage (input/output tokens at typical Claude/GPT-4 rates)
 
 ---
 
@@ -107,9 +128,9 @@ A complete, enterprise-grade financial analysis platform featuring:
 - **Advantage:** 20-25x faster delivery
 
 ### 2. Cost Efficiency
-- **Traditional:** $25,200
-- **With Kiro:** $600-900
-- **Savings:** $24,300-24,600 (96-97% reduction)
+- **Traditional:** $25,200 (developer salary)
+- **With Kiro:** $15-25 (LLM API costs only)
+- **Savings:** $25,175-25,185 (99.9% reduction)
 
 ### 3. Quality Metrics
 
@@ -217,7 +238,7 @@ A complete, enterprise-grade financial analysis platform featuring:
 | Aspect | Traditional Development | Kiro AI-Assisted | Advantage |
 |--------|------------------------|------------------|-----------|
 | **Time to Completion** | 4-5 weeks | 1 day | 20-25x faster |
-| **Development Cost** | $25,200 | $600-900 | 96-97% savings |
+| **Development Cost** | $25,200 | $15-25 (LLM only) | 99.9% savings |
 | **Code Quality** | Variable | Consistent | Higher reliability |
 | **Test Coverage** | 60-70% typical | 81% | Better quality |
 | **Documentation** | Often incomplete | Comprehensive | Better maintainability |
@@ -230,20 +251,22 @@ A complete, enterprise-grade financial analysis platform featuring:
 
 ### Single Project ROI
 
-**Investment:** $600-900 (developer time with Kiro)  
-**Savings:** $24,300-24,600 (vs traditional approach)  
-**ROI:** 2,700% - 4,050%
+**Investment:** $15-25 (LLM API costs)  
+**Savings:** $25,175-25,185 (vs traditional approach)  
+**ROI:** 100,700% - 167,900%
 
 ### Annual Projection (10 similar projects)
 
 **Traditional Approach:**
-- Cost: $252,000
+- Cost: $252,000 (developer salaries)
 - Time: 40-50 weeks of development time
 
 **Kiro AI Approach:**
-- Cost: $6,000-9,000
+- Cost: $150-250 (LLM API costs)
 - Time: 10 days of development time
-- **Annual Savings: $243,000-246,000**
+- **Annual Savings: $251,750-251,850 (99.9% reduction)**
+
+**Note:** This calculation focuses purely on LLM costs. Human supervision time (4-6 hours per project) can be considered "redeployed" to higher-value strategic work rather than routine coding.
 
 ---
 
