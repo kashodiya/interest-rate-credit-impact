@@ -2,6 +2,34 @@
 
 A Python-based data analysis application that examines the relationship between federal interest rates and consumer borrowing behavior using Federal Reserve datasets (H.15 and G.19).
 
+## Dashboard Preview
+
+Explore Federal Reserve economic data through an interactive web dashboard with professional visualizations and real-time analysis.
+
+### Time Series Analysis
+![Time Series Analysis](images/time-series-analysis.png)
+*Interactive charts showing interest rates and consumer credit trends over time*
+
+### Correlation Analysis
+![Correlation Analysis](images/correlation-analysis.png)
+*Heatmaps revealing relationships between economic indicators*
+
+### Detailed Relationships
+![Detailed Relationships](images/detailed-relationships.png)
+*Scatter plots showing how interest rates impact different types of credit*
+
+### Regression Analysis
+![Regression Analysis](images/regression-analysis.png)
+*Statistical models with coefficients, significance tests, and diagnostics*
+
+### Forecast Analysis
+![Forecast Analysis](images/forcast-analysis.png)
+*Predicted credit trends with confidence intervals*
+
+### Scenario Simulator
+![Scenario Simulator](images/scenario-calculator.png)
+*Interactive tool to simulate different interest rate scenarios*
+
 ## Setup
 
 This project uses [uv](https://github.com/astral-sh/uv) for fast Python package and environment management.
